@@ -4,7 +4,7 @@
 
 ByteEfficient is a flexible and convenient Python tool, designed to reduce the size of data files using gzip compression, especially useful for scenarios involving large amounts of data that need to be stored or transmitted efficiently.
 
-- ByteEfficient utilizes gzip compression algorithms to reduce the size of data files while maintaining data integrity.
+
 - Supports a wide range of file formats, such as text, CSV, JSON, and binary files, without compromising data integrity.
 - Provides detailed information about the compression process, including original and compressed file sizes, and compression ratio.
 - Accepts input and output file paths as command-line arguments for flexibility and customization.

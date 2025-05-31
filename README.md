@@ -1,6 +1,6 @@
-# `Byte Efficient`
+# Byte Efficient
 
-<samp>Refer to [**THIS**](https://byte-efficient.glitch.me/) documentation for detailed instructions and examples to help you get started.</samp>
+_Refer to [**THIS**](https://byte-efficient.glitch.me/) documentation for detailed instructions and examples to help you get started._
 
 *ByteEfficient* is a flexible and convenient Python companion, designed to reduce the size of data files using gzip compression, especially useful for scenarios involving large amounts of data that need to be stored or transmitted efficiently.
 
